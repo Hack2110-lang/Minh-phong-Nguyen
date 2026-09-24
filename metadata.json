@@ -1,0 +1,6 @@
+{
+  "name": "Physics Lab 3D",
+  "description": "Phòng thí nghiệm Vật lí tương tác 3D mô phỏng mạch điện, cơ học dao động, mặt phẳng nghiêng và nhiệt học cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
